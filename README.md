@@ -1,4 +1,4 @@
 TheWhizzler
 ===========
 
-Customizable pattern visualization.
+HTML5 customizable pattern visualization web app.
